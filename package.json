@@ -1,0 +1,15 @@
+{
+  "name": "node-zwave-mqtt",
+  "version": "1.0.0",
+  "description": "ZWave communication over MQTT with Node.JS v0.10.x",
+  "main": "index.js",
+  "dependencies": {
+    "openzwave": "git+https://github.com/voldemarpanso/node-openzwave.git#feature-additions",
+    "mqtt": "^1.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre Thomazo <alex@thomazo.info>",
+  "license": "GPL-3.0"
+}
