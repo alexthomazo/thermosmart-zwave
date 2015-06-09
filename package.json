@@ -1,5 +1,5 @@
 {
-  "name": "node-zwave-mqtt",
+  "name": "thermosmart-zwave",
   "version": "1.0.0",
   "description": "ZWave communication over MQTT with Node.JS v0.10.x",
   "main": "index.js",
